@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-CPU+Monitor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-System+Monitor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Core Temp Free Installer** — Core Temp is a free Windows utility that monitors individual CPU core temperatures in real time. Works without internet access, no account required. Full offline installation.
+**💻 Core Temp Free Installer** — Core Temp is a compact, no-nonsense CPU temperature monitoring tool for Windows that reads temperatures from each individual processor core using DTS (Digital Thermal Sensor). Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Core Temp
 
-Core Temp is a free Windows utility that monitors individual CPU core temperatures in real time. Display temperatures in the system tray for quick reference, log temperature history, support processor-specific temperature sensors, and generate temperature reports. Core Temp's lightweight design and accurate per-core temperature readings make it a go-to tool for monitoring CPU thermal performance during normal use or stress testing.
+Core Temp is a compact, no-nonsense CPU temperature monitoring tool for Windows that reads temperatures from each individual processor core using DTS (Digital Thermal Sensor). It supports all modern Intel and AMD processors with a minimal footprint.
 
 ---
 
 ## ❌ Problem: Core Temp is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **CPU Focus** — Only monitors CPU temperatures; separate tools needed for GPU monitoring
-- **Driver Dependency** — Requires specific driver for temperature reading on some processors
-- **Limited Features** — Temperature monitoring only; no voltage or fan speed in the free version
+- **Windows Only** — Not available on macOS or Linux
+- **Display Only** — Cannot control fan speeds or change thermal settings
+- **Limited Scope** — Only monitors CPU temperatures; no GPU or motherboard sensors
+- **Taskbar Space** — Temperature display in taskbar notification area uses limited screen real estate
 
 ---
 
@@ -121,7 +121,7 @@ Core Temp is a free Windows utility that monitors individual CPU core temperatur
 
 ---
 
-**Core Temp Free Installer** — Core Temp is a free Windows utility that monitors individual CPU core temperatures in real time. Install without internet connection today!
+**Core Temp Free Installer** — Core Temp is a compact, no-nonsense CPU temperature monitoring tool for Windows that reads temperatures from each individual processor core using DTS (Digital Thermal Sensor). Install without internet connection today!
 
 <div align="center">
 
